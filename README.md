@@ -4,7 +4,7 @@
 Este proyecto es una implementación de detección de rostros en video en vivo usando MediaPipe y Jetpack Compose en Android. Está basado en el ejemplo de MediaPipe Samples, pero adaptado a un enfoque 100% Jetpack Compose con Koin para la inyección de dependencias y Jetpack Navigation para la navegación.
 
 
-🎯 Características
+🎯 Características:
 
 ✅ Detección de rostros en tiempo real utilizando MediaPipe.
 ✅ Implementado con Jetpack Compose en lugar de vistas XML.
@@ -13,31 +13,32 @@ Este proyecto es una implementación de detección de rostros en video en vivo u
 ✅ Basado en el ejemplo oficial de MediaPipe Samples.
 
 
-🚀 Instalación
+🚀 Instalación:
 
 Clona el repositorio:
+
 git clone https://github.com/Pablete01/FaceLandMarkers.git
-cd NOMBRE_DEL_REPO
+
 Abre el proyecto en Android Studio Flamingo+.
 Conéctate a un dispositivo físico o usa un emulador.
 Ejecuta la aplicación.
 
 
-🛠️ Tecnologías utilizadas
+🛠️ Tecnologías utilizadas:
 
-Kotlin
-Jetpack Compose
-CameraX
-MediaPipe Face Landmarker
-Koin (DI)
-Jetpack Navigation
+- Kotlin
+- Jetpack Compose
+- CameraX
+- MediaPipe Face Landmarker
+- Koin (DI)
+- Jetpack Navigation
 
 
-🏗️ Basado en
+🏗️ Basado en:
 
 Este proyecto toma como base el ejemplo de detección de rostros de MediaPipe Samples. Se ha adaptado para funcionar completamente con Jetpack Compose en lugar de la versión basada en vistas.
 
-📌 Contribuir
+📌 Contribuir:
 
 Si quieres contribuir:
 
