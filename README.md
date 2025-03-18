@@ -6,11 +6,11 @@ Este proyecto es una implementación de detección de rostros en video en vivo u
 
 🎯 Características:
 
-✅ Detección de rostros en tiempo real utilizando MediaPipe.
-✅ Implementado con Jetpack Compose en lugar de vistas XML.
-✅ Arquitectura MVVM con Koin para inyección de dependencias.
-✅ Navegación con Jetpack Navigation.
-✅ Basado en el ejemplo oficial de MediaPipe Samples.
+-✅ Detección de rostros en tiempo real utilizando MediaPipe.
+-✅ Implementado con Jetpack Compose en lugar de vistas XML.
+-✅ Arquitectura MVVM con Koin para inyección de dependencias.
+-✅ Navegación con Jetpack Navigation.
+-✅ Basado en el ejemplo oficial de MediaPipe Samples.
 
 
 🚀 Instalación:
