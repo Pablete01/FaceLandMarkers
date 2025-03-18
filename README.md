@@ -16,7 +16,7 @@ Este proyecto es una implementación de detección de rostros en video en vivo u
 🚀 Instalación
 
 Clona el repositorio:
-git clone https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git
+git clone https://github.com/Pablete01/FaceLandMarkers.git
 cd NOMBRE_DEL_REPO
 Abre el proyecto en Android Studio Flamingo+.
 Conéctate a un dispositivo físico o usa un emulador.
