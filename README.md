@@ -8,16 +8,17 @@ Esta aplicación utiliza MediaPipe para el reconocimiento facial en tiempo real.
 🎨 Interfaz con Jetpack Compose para una experiencia fluida.
 🔀 Arquitectura modular con MVVM y Koin.
 🚀 Navegación eficiente con Kotlin Navigation.
-🛠️ Tecnologías utilizadas
 
-Kotli
+🛠️ Tecnologías utilizadas:
+
+Kotlin
 Jetpack Compose
 MediaPipe
 CameraX
 Koin (DI)
 Kotlin Navigation
 
-🚀 Instalación y Ejecución
+🚀 Instalación y Ejecución:
 
 Clona este repositorio:
 
