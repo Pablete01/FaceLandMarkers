@@ -1,47 +1,52 @@
-📌 Face Detection App con MediaPipe
 
-Esta aplicación utiliza MediaPipe para el reconocimiento facial en tiempo real. Está desarrollada en Kotlin con Jetpack Compose, Koin para la inyección de dependencias y Kotlin Navigation para la navegación.
+📸 Face Detection con MediaPipe y Jetpack Compose
 
-✨ Características:
+Este proyecto es una implementación de detección de rostros en video en vivo usando MediaPipe y Jetpack Compose en Android. Está basado en el ejemplo de MediaPipe Samples, pero adaptado a un enfoque 100% Jetpack Compose con Koin para la inyección de dependencias y Jetpack Navigation para la navegación.
 
-📷 Reconocimiento facial en tiempo real usando MediaPipe.
-🎨 Interfaz con Jetpack Compose para una experiencia fluida.
-🔀 Arquitectura modular con MVVM y Koin.
-🚀 Navegación eficiente con Kotlin Navigation.
 
-🛠️ Tecnologías utilizadas:
+🎯 Características
+
+✅ Detección de rostros en tiempo real utilizando MediaPipe.
+✅ Implementado con Jetpack Compose en lugar de vistas XML.
+✅ Arquitectura MVVM con Koin para inyección de dependencias.
+✅ Navegación con Jetpack Navigation.
+✅ Basado en el ejemplo oficial de MediaPipe Samples.
+
+
+🚀 Instalación
+
+Clona el repositorio:
+git clone https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git
+cd NOMBRE_DEL_REPO
+Abre el proyecto en Android Studio Flamingo+.
+Conéctate a un dispositivo físico o usa un emulador.
+Ejecuta la aplicación.
+
+
+🛠️ Tecnologías utilizadas
 
 Kotlin
 Jetpack Compose
-MediaPipe
 CameraX
+MediaPipe Face Landmarker
 Koin (DI)
-Kotlin Navigation
+Jetpack Navigation
 
-🚀 Instalación y Ejecución:
 
-Clona este repositorio:
+🏗️ Basado en
 
-git clone https://github.com/Pablete01/FaceLandMarkers.git
+Este proyecto toma como base el ejemplo de detección de rostros de MediaPipe Samples. Se ha adaptado para funcionar completamente con Jetpack Compose en lugar de la versión basada en vistas.
 
-Abre el proyecto en Android Studio.
-Conéctate a un dispositivo físico o usa un emulador con soporte para CameraX.
-Ejecuta la aplicación.
+📌 Contribuir
 
-📸 Uso
-Al abrir la aplicación, se activará la cámara.
-La detección facial se realizará en tiempo real.
-La UI mostrará los landmarks faciales y la malla generada por MediaPipe.
+Si quieres contribuir:
 
-📌 Próximas mejoras
-🛠️ Optimización del rendimiento.
-🎨 Mejoras en la UI.
-📲 Soporte para más modelos de MediaPipe.
-
+Haz un fork del repositorio.
+Crea una rama nueva:
+git checkout -b feature/nueva-funcionalidad
+Realiza tus cambios y haz un commit.
+Envía un pull request explicando los cambios.
 
 📄 Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
-
-🚀 ¡Si te gusta este proyecto, no olvides darle una estrella ⭐ en GitHub!
-📩 Para dudas o sugerencias, abre un issue o contáctame.
+Este proyecto sigue la misma licencia que MediaPipe. Puedes revisar la licencia original en el repositorio de MediaPipe.
